@@ -1,0 +1,8 @@
+.idea
+cmake-build-debug
+cmake-build-debug-remote
+CMakeFiles
+testOutput
+*.cmake
+CMakeCache.txt
+Makefile
